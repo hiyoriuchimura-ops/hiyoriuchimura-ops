@@ -20,7 +20,7 @@
 
 ### 3DCG
 - Blender作品 No.1：チューリップ
-- https://github.com/hiyoriuchimura-ops/blrnder_works
+- https://github.com/hiyoriuchimura-ops/blender_works
 - 
 
 ## 🎯 Goals
