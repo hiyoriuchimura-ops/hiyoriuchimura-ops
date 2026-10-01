@@ -16,6 +16,7 @@
 
 ### Programming
 - 制作作品 No.1：数あてゲーム（C言語）
+- https://github.com/hiyoriuchimura-ops/proguramming-practice
 
 ### 3DCG
 - Blender作品 No.1：チューリップ
